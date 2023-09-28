@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://wannabe-king.github.io/Priyanshu_Sidar/)
+![MasterHead](https://github.com/Wannabe-King/Wannabe-King/blob/main/26225592602_2f41e9c89f_o.jpg)
 
 <h1 align="center">Hi 👋, I'm Priyanshu Sidar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
