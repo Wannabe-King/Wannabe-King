@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]([https://rishavchanda.io](https://wannabe-king.github.io/Priyanshu_Sidar/))
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://wannabe-king.github.io/Priyanshu_Sidar/)
 
 <h1 align="center">Hi 👋, I'm Priyanshu Sidar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -31,6 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/priyanshusidar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshusidar3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-sidar-639914144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-sidar-639914144/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/cyrax_i_king/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cyrax_i_king/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@priyanshusidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@priyanshusidar" height="30" width="40" /></a>
 </p>
