@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for **good internship opportunity.**
 
-- 👨‍💻 All of my projects are available at [https://wannabe-king.github.io/Priyanshu_Sidar/](https://www.priyanshu-sidar.me/)
+- 👨‍💻 All of my projects are available at [(https://www.priyanshu-sidar.me/)](https://www.priyanshu-sidar.me/)
 
 - 📝 I regularly write articles on [https://priyanshusidar.hashnode.dev/git-and-github-basics](https://priyanshusidar.hashnode.dev/git-and-github-basics)
 
